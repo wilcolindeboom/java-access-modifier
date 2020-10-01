@@ -43,7 +43,7 @@ Voeg de volgende code toe aan MainThree.java:
 De code werkt nu niet. Voeg de klasse Doctor toe. Doctor is een subklasse van Human. Pas Human zo aan dat de code in
 MainThree gaat werken.
 
-Deze opdracht heeft tips. Probeer het eerst zonder en probeer de opdracht dan één voor één.
+Deze opdracht heeft tips. Probeer het eerst zonder en probeer daarna de opdracht tip voor tip.
 
 ## Opdracht 4
 _Uitdagend_
